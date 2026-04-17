@@ -1,4 +1,4 @@
-# NWChem: Performance Test of MPI Parallelization Efficiency for DFT calculation
+# NWChem: Performance Test of MPI Parallelization Efficiency for DFT Calculation
 
 - Date: 2018-06-10
 

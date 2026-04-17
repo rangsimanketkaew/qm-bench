@@ -1,4 +1,4 @@
-# NWChem: Performance Test for CCSD(T) and CCSD[T] calculation on GeForce GTX 1050 Ti
+# NWChem: Performance Test for CCSD(T) and CCSD[T] Calculation on GeForce GTX 1050 Ti
 
 - Date: 2019-01-10
 
